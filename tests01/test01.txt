@@ -1,1 +1,17 @@
-3 6 4 5 2
+initial_capacity 5
+num_identifiers 6
+
+friends 1 long
+enemies 1 int 
+owns_wig 0 bool
+update 0 void
+grades 1 int*
+iq 1 long
+
+insert max_lols 1 float 
+delete owns_wig 
+delete iq 
+search owns_wig
+insert enjoys_toast 0 bool  
+delete update
+search enjoys_toast
