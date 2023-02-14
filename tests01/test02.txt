@@ -1,1 +1,21 @@
-6 13 2 4 11 7 18
+initial_capacity 7
+num_identifiers 10
+
+a 0 bool
+b 1 int
+c 0 bool
+d 1 int
+e 0 bool
+f 1 int
+g 0 bool
+h 1 int
+i 0 bool
+j 1 int
+
+delete e
+delete h
+search e
+search f
+insert k 0 bool
+insert l 1 int
+delete a
